@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Re: boot</title>
+    <link>https://blog.eternalwings.de/</link>
+    <description>Recent content on Re: boot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Dec 2019 17:28:07 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.eternalwings.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Its Been a Long Time</title>
+      <link>https://blog.eternalwings.de/posts/2019-12-11-its-been-a-long-time/</link>
+      <pubDate>Wed, 11 Dec 2019 17:28:07 +0100</pubDate>
+      
+      <guid>https://blog.eternalwings.de/posts/2019-12-11-its-been-a-long-time/</guid>
+      <description>It&#39;s been a long time since I&#39;ve posted anything here, in fact it&#39;s been more than four years. Actually, it&#39;s almost exactly five years since I made the first post. So is it just a coincidence that I just now thought about writing again? Maybe, but I think the situation is a pretty similar to when I wrote that first post. The university semester was on its way to the winter break so lectures were a bit more relaxing, I started spending more time on programming projects again and I found myself in having a bit of free time to do stuff in.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.eternalwings.de/about/</link>
+      <pubDate>Wed, 11 Dec 2019 17:19:14 +0100</pubDate>
+      
+      <guid>https://blog.eternalwings.de/about/</guid>
+      <description>Tim is my name. I&#39;m currently doing my master in computer science and live in Germany. I mostly work with Java-based backend services, but do work up and down the stack. In my free time I work on different kinds of projects but generally some that make my life easier. Occasionally I like to play games and am interested in esports, IT-security and open source.</description>
+    </item>
+    
+    <item>
+      <title>Seeker</title>
+      <link>https://blog.eternalwings.de/projects/twitch-browse/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.eternalwings.de/projects/twitch-browse/</guid>
+      <description>Live Version
+Seeker is a project I started recently which should help people find new streams on Twitch.
+The Idea While Twitch does have a page to browse for the streams with currently the most viewers to find new streams, I found that page to be rather inadequate for that purpose. The reason is that for most people (including me) when they&#39;re searching for new stuff to watch, they don&#39;t reall know exactly what they&#39;re looking for.</description>
+    </item>
+    
+    <item>
+      <title>Vima</title>
+      <link>https://blog.eternalwings.de/projects/vima/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.eternalwings.de/projects/vima/</guid>
+      <description>I have a big collection of videos that aren&#39;t movies or series (educational videos for example) which I&#39;d like to organize so I can search for specific ones, track progress or make notes. Sadly, the only kind of software that is in this space are &amp;ldquo;Media Servers&amp;rdquo;. I say &amp;ldquo;sadly&amp;rdquo; because those media servers are made for movies and tv shows where there&#39;s public metadata available that a server can provide in addition to streaming the video itself.</description>
+    </item>
+    
+    <item>
+      <title>The only reason I can&#39;t love linux</title>
+      <link>https://blog.eternalwings.de/posts/2015-03-27-the-only-reason-i-cant-love-linux/</link>
+      <pubDate>Fri, 27 Mar 2015 14:04:31 +0100</pubDate>
+      
+      <guid>https://blog.eternalwings.de/posts/2015-03-27-the-only-reason-i-cant-love-linux/</guid>
+      <description>Let me get this straight first, I really like Linux. It&#39;s pretty much everything I love about OSX just wrapped up in a more customizable, easier accessible and more diverse operating system. But there&#39;s one thing, which is a showstopper for me.
+There&#39;s on thing I have used since my windows days and continue to use it to this very day on OSX. It&#39;s Little Snitch (on Windows it was Zone Alarm).</description>
+    </item>
+    
+    <item>
+      <title>The world we live in</title>
+      <link>https://blog.eternalwings.de/posts/2015-03-18-the-world-we-live-in/</link>
+      <pubDate>Wed, 18 Mar 2015 22:03:50 +0100</pubDate>
+      
+      <guid>https://blog.eternalwings.de/posts/2015-03-18-the-world-we-live-in/</guid>
+      <description>Sometimes I wonder, what do people write about? Todays events? Discussion topics? Crazy stories that no one would ever believe? I don&#39;t feel like writing about such things. Because the world we live in is crazy enough already. Just think about it, how many of our own planet we have yet to discover. What kind of animals have lived on this planet to this very day and how many will live for long after.</description>
+    </item>
+    
+    <item>
+      <title>I Just Feel Like Writing About This</title>
+      <link>https://blog.eternalwings.de/posts/2015-01-16-i-just-feel-like-writing-about-this/</link>
+      <pubDate>Fri, 16 Jan 2015 13:02:34 +0100</pubDate>
+      
+      <guid>https://blog.eternalwings.de/posts/2015-01-16-i-just-feel-like-writing-about-this/</guid>
+      <description>The title doesn&#39;t really give anything away about the content, so what is it about? So I watched a TED talk the other day from Susan Cain, &amp;ldquo;The power of introverts&amp;rdquo;, and she also touches the topic about introverts in school. I just want to give my experience on this topic, not about introverts in school, but in university.
+I would consider myself an introvert right now, however, when I was younger I wasn&#39;t as introverted as I currently am.</description>
+    </item>
+    
+    <item>
+      <title>GTA 5 Getting Pulled From the Shelves in Australia</title>
+      <link>https://blog.eternalwings.de/posts/2014-12-12-gta-5-getting-pulled-from-the-shelves-in-australia/</link>
+      <pubDate>Fri, 12 Dec 2014 12:56:36 +0100</pubDate>
+      
+      <guid>https://blog.eternalwings.de/posts/2014-12-12-gta-5-getting-pulled-from-the-shelves-in-australia/</guid>
+      <description>&amp;ndash; Disclaimer There are a lot of posts about this on the internet already, spanning from well written ones to ones that try to defend the opinion with empty statements. This will be nothing more than a rant about what some peoples opinions are and generally my own one on the topic. You are free to agree and/or disagree with me or even critizise me in this regard, but be warned that I won&#39;t get into a discussion with you in anyway about this topic.</description>
+    </item>
+    
+    <item>
+      <title>What Is This?</title>
+      <link>https://blog.eternalwings.de/posts/2014-12-11-what-is-this/</link>
+      <pubDate>Thu, 11 Dec 2014 10:42:34 +0100</pubDate>
+      
+      <guid>https://blog.eternalwings.de/posts/2014-12-11-what-is-this/</guid>
+      <description>This is, as you might&#39;ve noticed, something that looks like a blog, doesn&#39;t it? Well, it is indeed some form of blog, but don&#39;t expect it to have (continuously) new content on it. I tend to forget such things pretty easily and then I found something new and get rid of the old stuff&amp;hellip; Which might be somewhat sad but I just like to try out all the new things.</description>
+    </item>
+    
+  </channel>
+</rss>
