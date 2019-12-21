@@ -1,45 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on Re: boot</title>
-    <link>https://blog.eternalwings.de/projects/</link>
-    <description>Recent content in Projects on Re: boot</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://blog.eternalwings.de/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Seeker</title>
-      <link>https://blog.eternalwings.de/projects/twitch-browse/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.eternalwings.de/projects/twitch-browse/</guid>
-      <description>Live Version
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Re: boot</title><link>https://blog.eternalwings.de/projects/</link><description>Recent content in Projects on Re: boot</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.eternalwings.de/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Seeker</title><link>https://blog.eternalwings.de/projects/twitch-browse/</link><pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate><guid>https://blog.eternalwings.de/projects/twitch-browse/</guid><description>Live Version
 Seeker is a project I started recently which should help people find new streams on Twitch.
-The Idea While Twitch does have a page to browse for the streams with currently the most viewers to find new streams, I found that page to be rather inadequate for that purpose. The reason is that for most people (including me) when they&#39;re searching for new stuff to watch, they don&#39;t reall know exactly what they&#39;re looking for.</description>
-    </item>
-    
-    <item>
-      <title>Vima</title>
-      <link>https://blog.eternalwings.de/projects/vima/</link>
-      <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.eternalwings.de/projects/vima/</guid>
-      <description>I have a big collection of videos that aren&#39;t movies or series (educational videos for example) which I&#39;d like to organize so I can search for specific ones, track progress or make notes. Sadly, the only kind of software that is in this space are &amp;ldquo;Media Servers&amp;rdquo;. I say &amp;ldquo;sadly&amp;rdquo; because those media servers are made for movies and tv shows where there&#39;s public metadata available that a server can provide in addition to streaming the video itself.</description>
-    </item>
-    
-    <item>
-      <title>Proxtop</title>
-      <link>https://blog.eternalwings.de/projects/proxtop/</link>
-      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.eternalwings.de/projects/proxtop/</guid>
-      <description>Repository: Here
-Proxtop evolved out of my desire to be notified of new anime episodes being available instead of manually having to check for new releases by going to the website. I had already done some small server side scripts that did this for me, but I thought that if I wanted to make this available to other people, a server application isn&#39;t gonna cut it. You can see that project here.</description>
-    </item>
-    
-  </channel>
-</rss>
+The Idea While Twitch does have a page to browse for the streams with currently the most viewers to find new streams, I found that page to be rather inadequate for that purpose. The reason is that for most people (including me) when they're searching for new stuff to watch, they don't reall know exactly what they're looking for.</description></item><item><title>Vima</title><link>https://blog.eternalwings.de/projects/vima/</link><pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate><guid>https://blog.eternalwings.de/projects/vima/</guid><description>I have a big collection of videos that aren't movies or series (educational videos for example) which I'd like to organize so I can search for specific ones, track progress or make notes. Sadly, the only kind of software that is in this space are &amp;ldquo;Media Servers&amp;rdquo;. I say &amp;ldquo;sadly&amp;rdquo; because those media servers are made for movies and tv shows where there's public metadata available that a server can provide in addition to streaming the video itself.</description></item><item><title>Proxtop</title><link>https://blog.eternalwings.de/projects/proxtop/</link><pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate><guid>https://blog.eternalwings.de/projects/proxtop/</guid><description>Repository: Here
+Proxtop evolved out of my desire to be notified of new anime episodes being available instead of manually having to check for new releases by going to the website. I had already done some small server side scripts that did this for me, but I thought that if I wanted to make this available to other people, a server application isn't gonna cut it. You can see that project here.</description></item></channel></rss>
